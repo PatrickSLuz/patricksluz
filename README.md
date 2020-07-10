@@ -1,8 +1,11 @@
-### Hi there 👋
+# Patrick S. Luz 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-s-luz-3a0b73167/)](https://www.linkedin.com/in/patrick-s-luz-3a0b73167/)
+[![Gitlab Badge](https://img.shields.io/badge/-GitLab-282961?style=flat-square&logo=Gitlab&logoColor=white&link=https://gitlab.com/PatrickSLuz/)](https://gitlab.com/PatrickSLuz/)
+[![Gitlab Badge](https://img.shields.io/badge/-Instagram-d52881?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/patrick.sluz/)](https://www.instagram.com/patrick.sluz/)
+
+### Hi there 👋 Welcome to my profile
 
 <!--
-**PatrickSLuz/PatrickSLuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
