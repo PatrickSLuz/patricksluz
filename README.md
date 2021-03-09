@@ -8,6 +8,11 @@
 
 ### Hi there 👋 Welcome to my profile
 
+<p>
+  <img height=175 src="https://github-readme-stats.vercel.app/api?username=PatrickSLuz&count_private=true&show_icons=true&theme=nord">
+  <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=PatrickSLuz&layout=compact&theme=nord&exclude_repo=BatimentoBIG,ProjetoC-Sharp,ASP-.NET-Core,C-Sharp" />
+</p>
+
 <!--
 Here are some ideas to get you started:
 
@@ -20,4 +25,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
